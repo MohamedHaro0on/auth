@@ -9,7 +9,7 @@ import {
 } from "@mui/material";
 import MenuItem from "@mui/material/MenuItem";
 import axios from "axios";
-import { Link, Navigate, redirect, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 import signUpImage from "../../assets/images/draw1.webp";
 import "./logInPage.css";
